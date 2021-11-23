@@ -54,22 +54,26 @@ In case it is correct,
 Get the wages of a registered employee
 
 Example:
+
 ![plot](img/opt1.PNG)
 
 ### Option 2
 Get the days worked by a registered employee
 
 Example:
+
 ![plot](img/opt2.PNG)
 
 ### Option 3
 Manually enter a salary line and calculate the result
 
 Example:
+
 ![plot](img/opt3.PNG)
 
 ### Option 4
 Goodbye (:
 
 Example:
+
 ![plot](img/opt4.PNG)
