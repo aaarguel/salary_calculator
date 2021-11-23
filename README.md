@@ -34,7 +34,8 @@ Run this command:
 $ py salary_calculatory.py
 ```
 
-Then, write file to analyze
+Then, write file to analyze. 
+In this repo include a file "wages.txt"
 
 If the file does not exist or there is an exception, a similar message will be presented:
 
